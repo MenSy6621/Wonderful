@@ -3,7 +3,7 @@ var swiper = new Swiper('.swiper', {
     loop: true,
     autoHeight: true,
     autoplay: {
-        delay: 15000,
+        delay: 18000,
         disableOnInteraction: false
 },
     slidesPerGroup: 1,
