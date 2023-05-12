@@ -43,3 +43,15 @@ p{
     width: 1000px;
     margin-top: 50px;
 }
+.forms1{
+    display: flex;
+    width: 1000px;
+    margin-top: 50px;
+    justify-content: center;
+}
+#forms{
+    display: flex;
+    width: 1000px;
+    margin-top: 50px;
+    justify-content: center;
+}
